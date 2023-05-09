@@ -63,6 +63,7 @@ img {
     flex-basis: 33%;
     padding: 1rem;
     text-align: center;
+    float:right;
 }
   
 .grado {
@@ -76,6 +77,7 @@ img {
   
 .año {
     margin-bottom: 0.5rem;
+    
 }
   
 .eso {
@@ -92,4 +94,8 @@ img {
     float: right;
     bottom: 10rem;
     left: 20rem;
+}
+.titulito{
+    text-align: center;
+    display: inline-block;
 }
