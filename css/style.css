@@ -46,6 +46,7 @@ h2 {
 }
 .educació {
     padding-left: 2%;
+
 }
 img {
     width: 25%;
@@ -88,8 +89,8 @@ img {
 }
   
 iframe {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+   width: 40%;
+   margin-bottom: 20px
 }
 img {
     max-width: 100%;
@@ -106,11 +107,25 @@ img {
     text-align: center;
     font-size: 30px;
 }
-.donde {
-    padding-left: 20%;
-    padding-inline: 30%;
-    vertical-align: super;
+
+.actividades{
+    padding-left: 50%
 }
-.experiencia {
-    display: inline-block;
+.hacia {
+    padding-left: 50%;
 }
+.donde{
+    width: 22.22%;
+    float: left;
+    padding: 2%;
+}
+
+.mapa{
+    
+}
+
+
+
+
+
+
