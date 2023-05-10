@@ -63,37 +63,9 @@ img {
     flex-basis: 33%;
     padding: 1rem;
     text-align: center;
-    float:right
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ;
+    float:right;
+    position: absolute;
+    bottom: 0%;
 }
   
 .grado {
