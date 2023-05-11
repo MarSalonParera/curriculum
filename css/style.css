@@ -72,39 +72,3 @@ h2 {
 .imagen2{
     padding-left: 50% ;
 }
-@media screen and (max-width:500px)
-
-.titulo {
-    font-size: 50px;
-  }
-  
-  .parrafo1,
-  .parrafo2 {
-    width: 100%;
-    display: block;
-    padding: 0;
-  }
-  
-  .educacio-item,
-  .educacio-eso {
-    flex-basis: 50%;
-    padding-left: 0;
-  }
-  
-  .hacia,
-  .actividades {
-    padding-left: 0;
-  }
-  
-  .donde {
-    padding-right: 0;
-  }
-  
-  .video {
-    padding-left: 0;
-  }
-  
-  .imagen1,
-  .imagen2 {
-    padding: 0;
-  }
