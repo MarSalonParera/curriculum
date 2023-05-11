@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+.titulo {
+    text-align: center;
+    font-size: 75px;
+}
+.parrafo1 {
+    text-align: center;
+    width: 48%;
+    display: inline-block;
+    padding-top: 2%;
+}
+
+.parrafo2 {
+    text-align: center;
+    width: 48%;
+    display: inline-block;
+    padding-right: 30% ;
+}
+h2 {
+    text-align: center;
+}
+.parrafo30{
+    text-align: center;   
+}
+.column-2 {
+    width: 33%;
+    float: left;
+    padding: 2%;
+}
+.educacio-item {
+    flex-basis: 33%;
+    padding-left: 10%;
+    text-align: center;
+    display: inline-block;
+}
+.educacio-eso {
+    flex-basis: 33%;
+    padding-left: 25%;
+    text-align: center;
+    display: inline-block;
+}
+.column-1 {
+    width: 100%;
+    float: left;
+    padding: 2%;
+}
+.hacia {
+    padding-left: 50%;
+    display: inline-block;
+}
+.actividades{
+    padding-left: 50%;
+    display: inline-block; 
+}
+.donde{
+    text-align: center;
+    padding-right: 40%;  
+}
+.video{
+    padding-left: 50%;
+}
+.video2{
+    padding-left: 5%;
+    width: 10%;
+    height: 5%;
+}
+.imagen1{
+    padding-right: 50% ;
+}
+.imagen2{
+    padding-left: 50% ;
+}
+@media screen and (max-width:500px)
+
+.titulo {
+    font-size: 50px;
+  }
+  
+  .parrafo1,
+  .parrafo2 {
+    width: 100%;
+    display: block;
+    padding: 0;
+  }
+  
+  .educacio-item,
+  .educacio-eso {
+    flex-basis: 50%;
+    padding-left: 0;
+  }
+  
+  .hacia,
+  .actividades {
+    padding-left: 0;
+  }
+  
+  .donde {
+    padding-right: 0;
+  }
+  
+  .video {
+    padding-left: 0;
+  }
+  
+  .imagen1,
+  .imagen2 {
+    padding: 0;
+  }
